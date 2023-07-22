@@ -62,3 +62,4 @@ template = """
         {% endif %}
     </div>
 </body>
+</html>
