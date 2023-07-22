@@ -45,3 +45,4 @@ template = """
             color: white;
         }
     </style>
+</head>
