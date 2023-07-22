@@ -69,3 +69,4 @@ template = """
 def url_status_checker():
     result = None
 
+    if request.method == "POST":
