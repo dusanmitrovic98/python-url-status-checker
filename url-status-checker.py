@@ -67,3 +67,4 @@ template = """
 
 @app.route("/", methods=["GET", "POST"])
 def url_status_checker():
+    result = None
