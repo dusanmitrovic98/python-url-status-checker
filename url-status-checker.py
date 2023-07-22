@@ -35,6 +35,7 @@ template = """
             border-radius: 4px;
             cursor: pointer;
         }
+        
         .result {
             padding: 10px;
             margin-top: 20px;
