@@ -16,3 +16,4 @@ template = """
             text-align: center;
             background-color: #6e6e80;
         }
+        .container {
