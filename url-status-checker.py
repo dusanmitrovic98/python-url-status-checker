@@ -7,3 +7,4 @@ template = """
 <!DOCTYPE html>
 <html>
 <head>
+    <title>URL Status Checker</title>
