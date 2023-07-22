@@ -31,3 +31,4 @@ template = """
             border-radius: 4px;
             cursor: pointer;
         }
+        .result {
