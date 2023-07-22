@@ -75,3 +75,4 @@ def url_status_checker():
             response = requests.get(url)
             if response.status_code == 200:
                 result = {"status": "success", "message": "URL is reachable."}
+            else:
