@@ -46,3 +46,4 @@ template = """
         }
     </style>
 </head>
+<body>
