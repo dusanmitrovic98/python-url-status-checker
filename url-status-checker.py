@@ -21,3 +21,4 @@ template = """
             margin: 0 auto;
         }
         .form-group {
+            margin-bottom: 10px;
