@@ -79,3 +79,4 @@ def url_status_checker():
                 result = {"status": "error", "message": f"Failed to access URL. Status code: {response.status_code}"}
         except requests.exceptions.RequestException as e:
             result = {"status": "error", "message": f"Error occurred: {e}"}
+
