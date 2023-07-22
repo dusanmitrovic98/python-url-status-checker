@@ -36,3 +36,4 @@ template = """
             margin-top: 20px;
             border-radius: 4px;
         }
+        .result.success {
