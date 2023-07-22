@@ -46,6 +46,7 @@ template = """
             background-color: #2EA44F;
             color: white;
         }
+        
         .result.error {
             background-color: #CB2431;
             color: white;
