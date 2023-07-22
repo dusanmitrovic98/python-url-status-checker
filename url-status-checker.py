@@ -76,3 +76,4 @@ def url_status_checker():
             if response.status_code == 200:
                 result = {"status": "success", "message": "URL is reachable."}
             else:
+                result = {"status": "error", "message": f"Failed to access URL. Status code: {response.status_code}"}
