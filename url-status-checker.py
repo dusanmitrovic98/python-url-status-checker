@@ -41,3 +41,4 @@ template = """
             color: white;
         }
         .result.error {
+            background-color: #CB2431;
