@@ -47,3 +47,4 @@ template = """
     </style>
 </head>
 <body>
+    <div class="container">
