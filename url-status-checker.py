@@ -80,3 +80,4 @@ def url_status_checker():
         except requests.exceptions.RequestException as e:
             result = {"status": "error", "message": f"Error occurred: {e}"}
 
+    return render_template_string(template, result=result)
