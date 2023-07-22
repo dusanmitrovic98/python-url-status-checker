@@ -38,3 +38,4 @@ template = """
         }
         .result.success {
             background-color: #2EA44F;
+            color: white;
