@@ -56,3 +56,4 @@ template = """
             <button class="btn" type="submit">Check</button>
         </form>
         {% if result %}
+        <div class="result {{ result.status }}">
