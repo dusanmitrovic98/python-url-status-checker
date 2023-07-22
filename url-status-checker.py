@@ -34,3 +34,4 @@ template = """
         .result {
             padding: 10px;
             margin-top: 20px;
+            border-radius: 4px;
