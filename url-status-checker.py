@@ -17,3 +17,4 @@ template = """
             background-color: #6e6e80;
         }
         .container {
+            max-width: 400px;
