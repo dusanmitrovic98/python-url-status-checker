@@ -37,3 +37,4 @@ template = """
             border-radius: 4px;
         }
         .result.success {
+            background-color: #2EA44F;
