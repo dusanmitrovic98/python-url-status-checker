@@ -26,3 +26,4 @@ template = """
         .btn {
             background-color: #2EA44F;
             color: white;
+            padding: 10px 20px;
