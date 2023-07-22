@@ -82,3 +82,4 @@ def url_status_checker():
 
     return render_template_string(template, result=result)
 
+if __name__ == "__main__":
