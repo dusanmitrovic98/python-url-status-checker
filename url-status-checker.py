@@ -5,3 +5,4 @@ app = Flask(__name__)
 
 template = """
 <!DOCTYPE html>
+<html>
