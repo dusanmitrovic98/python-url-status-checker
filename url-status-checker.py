@@ -15,3 +15,4 @@ template = """
             margin: 20px;
             text-align: center;
             background-color: #6e6e80;
+        }
