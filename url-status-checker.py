@@ -24,3 +24,4 @@ template = """
             margin-bottom: 10px;
         }
         .btn {
+            background-color: #2EA44F;
