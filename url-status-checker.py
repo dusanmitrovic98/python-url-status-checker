@@ -58,3 +58,4 @@ template = """
         {% if result %}
         <div class="result {{ result.status }}">
             {{ result.message }}
+        </div>
