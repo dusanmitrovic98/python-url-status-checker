@@ -51,6 +51,7 @@ template = """
             background-color: #CB2431;
             color: white;
         }
+        
     </style>
 </head>
 <body>
