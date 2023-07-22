@@ -72,3 +72,4 @@ def url_status_checker():
     if request.method == "POST":
         url = request.form["url"]
         try:
+            response = requests.get(url)
