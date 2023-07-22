@@ -48,3 +48,4 @@ template = """
 </head>
 <body>
     <div class="container">
+        <h1>URL Status Checker</h1>
