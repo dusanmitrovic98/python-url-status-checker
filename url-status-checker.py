@@ -60,3 +60,4 @@ template = """
             {{ result.message }}
         </div>
         {% endif %}
+    </div>
