@@ -4,3 +4,4 @@ import requests
 app = Flask(__name__)
 
 template = """
+<!DOCTYPE html>
