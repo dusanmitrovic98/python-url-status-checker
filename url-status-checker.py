@@ -32,3 +32,4 @@ template = """
             cursor: pointer;
         }
         .result {
+            padding: 10px;
