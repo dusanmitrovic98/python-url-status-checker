@@ -41,6 +41,7 @@ template = """
             margin-top: 20px;
             border-radius: 4px;
         }
+        
         .result.success {
             background-color: #2EA44F;
             color: white;
