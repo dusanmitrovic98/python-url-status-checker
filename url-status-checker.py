@@ -23,3 +23,4 @@ template = """
         .form-group {
             margin-bottom: 10px;
         }
+        .btn {
