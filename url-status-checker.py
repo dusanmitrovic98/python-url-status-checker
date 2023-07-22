@@ -23,6 +23,7 @@ template = """
         .form-group {
             margin-bottom: 10px;
         }
+        
         .btn {
             background-color: #2EA44F;
             color: white;
