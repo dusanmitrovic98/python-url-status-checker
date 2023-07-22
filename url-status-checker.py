@@ -16,6 +16,7 @@ template = """
             text-align: center;
             background-color: #6e6e80;
         }
+        
         .container {
             max-width: 400px;
             margin: 0 auto;
