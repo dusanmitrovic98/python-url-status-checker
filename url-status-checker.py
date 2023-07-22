@@ -50,3 +50,4 @@ template = """
     <div class="container">
         <h1>URL Status Checker</h1>
         <form method="post">
+            <div class="form-group">
