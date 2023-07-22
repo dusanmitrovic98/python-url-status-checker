@@ -51,3 +51,4 @@ template = """
         <h1>URL Status Checker</h1>
         <form method="post">
             <div class="form-group">
+                <input type="text" name="url" placeholder="Enter URL to check" required>
