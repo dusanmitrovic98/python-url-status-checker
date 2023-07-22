@@ -57,3 +57,4 @@ template = """
         </form>
         {% if result %}
         <div class="result {{ result.status }}">
+            {{ result.message }}
