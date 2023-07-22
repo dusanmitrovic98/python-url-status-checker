@@ -53,3 +53,4 @@ template = """
             <div class="form-group">
                 <input type="text" name="url" placeholder="Enter URL to check" required>
             </div>
+            <button class="btn" type="submit">Check</button>
