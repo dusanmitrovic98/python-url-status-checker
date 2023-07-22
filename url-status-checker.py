@@ -14,3 +14,4 @@ template = """
             font-family: Arial, sans-serif;
             margin: 20px;
             text-align: center;
+            background-color: #6e6e80;
